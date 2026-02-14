@@ -67,7 +67,7 @@ The notebook generates:
 
 ## 🛠 Behind the Project
 
-This repository was born out of a personal "aha!" moment while learning in public. To document this clearly, I used an AI-augmented workflow:
+This repository was born out of a personal "aha!" moment while learning. To document this clearly, I used an AI-augmented workflow:
 * **Claude (via Cursor):** Helped me write the Python implementation and ensure the statistical proof was rigorous.
 * **Gemini:** Helped me structure the documentation and explain these concepts simply for other practitioners starting their journey.
 
